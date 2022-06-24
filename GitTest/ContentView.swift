@@ -12,7 +12,7 @@ struct ContentView: View {
         ZStack {
             Color.orange.ignoresSafeArea()
             
-            Text("Hello, Test")
+            Text("Hello, GitHub")
                 .foregroundColor(.white)
                 .padding(.horizontal, 10)
         }
