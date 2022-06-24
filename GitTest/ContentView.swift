@@ -14,7 +14,7 @@ struct ContentView: View {
             
             Text("Hello, Git!")
                 .foregroundColor(.white)
-                .padding()
+                .padding(.horizontal, 10)
         }
     }
 }
